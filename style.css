@@ -1,0 +1,47 @@
+.container{
+    background-color: coral;
+    position: relative;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    letter-spacing: 3px;
+    overflow: hidden;
+    background-color: #fff;
+    transform: translateX();
+    z-index: 2;
+    padding: 20px;
+    justify-content: space-between;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #ddd;
+    margin-bottom: 20px;
+    border: none;
+    padding: 10px;
+    background-color: #f5fbfd;
+    color:gray;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;  
+    border-radius: 10px;
+    border: 1px solid teal;
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    display: flex;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)) url('https://images.pexels.com/photos/7005691/pexels-photo-7005691.jpeg?cs=srgb&dl=pexels-rodnae-productions-7005691.jpg&fm=jpg') center;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 12px;
+    text-decoration: underline;
+    margin: 5px 0;
+    cursor: pointer;
+    margin-bottom: 10px;
+    
+}
